@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font-family: Rubik, Arial;
+  color: white
+}
+#Second_text{
+  text-decoration: underline;
+  color: aquamarine;
+  font-size: 16px;
+  cursor: pointer;
+}
